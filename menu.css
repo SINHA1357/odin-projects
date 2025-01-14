@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #78b0f0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+.header-01 {
+    color: rgb(241, 247, 157);
+    font-family: cursive;
+}
+
+.name{
+    font-family: Times, serif;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(245, 56, 56);
+}
+
+.footer{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
